@@ -1,6 +1,6 @@
 adds = []
-for i in range(1000):
-    for j in range(1000):
+for i in range(500):
+    for j in range(500):
         # save f"{i}+{j}={i+j}\n" to addition.txt
         adds.append(f"{i}+{j}={i+j}\n")
 # shuffle
